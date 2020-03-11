@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/blog/hello/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/blog/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/blog/hello/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/categories/init/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/categories/init/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/categories/init/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/tags/"
+                />
+  </url>
+  
+</urlset>
