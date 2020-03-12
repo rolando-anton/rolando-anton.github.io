@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>./rolando.anton.sh</title>
-    <link>https://rolando.anton.sh/es/</link>
-    <description>Recent content on ./rolando.anton.sh</description>
+    <title>init on ./rolando.anton.sh</title>
+    <link>https://rolando.anton.sh/es/categories/init/</link>
+    <description>Recent content in init on ./rolando.anton.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 12 Mar 2020 03:35:21 +0000</lastBuildDate>
     
-	<atom:link href="https://rolando.anton.sh/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rolando.anton.sh/es/categories/init/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

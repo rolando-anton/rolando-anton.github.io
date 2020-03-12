@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://rolando.anton.sh/es/</loc>
-    <lastmod>2020-03-12T03:35:27+00:00</lastmod>
+    <lastmod>2020-03-12T03:35:21+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://rolando.anton.sh/es/blog/</loc>
-    <lastmod>2020-03-12T03:35:27+00:00</lastmod>
+    <lastmod>2020-03-12T03:35:21+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,8 +33,23 @@
   </url>
   
   <url>
+    <loc>https://rolando.anton.sh/es/categories/</loc>
+    <lastmod>2020-03-12T03:35:21+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rolando.anton.sh/es/blog/hello-world/</loc>
-    <lastmod>2020-03-12T03:35:27+00:00</lastmod>
+    <lastmod>2020-03-12T03:35:21+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,16 +63,17 @@
   </url>
   
   <url>
-    <loc>https://rolando.anton.sh/es/categories/</loc>
+    <loc>https://rolando.anton.sh/es/categories/init/</loc>
+    <lastmod>2020-03-12T03:35:21+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rolando.anton.sh/categories/"
+                href="https://rolando.anton.sh/categories/init/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://rolando.anton.sh/es/categories/"
+                href="https://rolando.anton.sh/es/categories/init/"
                 />
   </url>
   
