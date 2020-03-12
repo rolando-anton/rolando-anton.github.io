@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://rolando.anton.sh/es/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +19,7 @@
   
   <url>
     <loc>https://rolando.anton.sh/es/blog/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,6 +34,7 @@
   
   <url>
     <loc>https://rolando.anton.sh/es/categories/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -46,6 +49,7 @@
   
   <url>
     <loc>https://rolando.anton.sh/es/blog/hello/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,6 +64,7 @@
   
   <url>
     <loc>https://rolando.anton.sh/es/categories/init/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

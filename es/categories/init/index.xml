@@ -6,6 +6,7 @@
     <description>Recent content in init on ./rolando.anton.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rolando.anton.sh/es/categories/init/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>hello world</title>
       <link>https://rolando.anton.sh/es/blog/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rolando.anton.sh/es/blog/hello/</guid>
       <description>./hello-world No pude encontrar una mejor manera de comenzar este blog que con el clásico &amp;ldquo;hola mundo&amp;rdquo;, sin embargo, este no será un blog relacionado solo con programación (tendre algunas publicaciones al respecto, pero no es el tema principal). La idea de este blog es comunicar, compartir conocimientos y experiencias de mi interacción diaria con la tecnología. Tengo la suerte y estoy muy agradecido de poder hacer lo que amo como un trabajo diario.</description>
