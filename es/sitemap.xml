@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>https://rolando.anton.sh/es/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rolando.anton.sh/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,6 +41,34 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://rolando.anton.sh/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/blog/hello/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/blog/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/blog/hello/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rolando.anton.sh/es/categories/init/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rolando.anton.sh/categories/init/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rolando.anton.sh/es/categories/init/"
                 />
   </url>
   
