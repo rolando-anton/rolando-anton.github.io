@@ -1,0 +1,7 @@
+.circle {
+    -webkit-clip-path: circle(50% at 50% 50%);
+    -moz-clip-path: circle(50% at 50% 50%);
+    -ms-clip-path: circle(50% at 50% 50%);
+    -o-clip-path: circle(50% at 50% 50%);
+    clip-path: circle(50% at 50% 50%);
+}
